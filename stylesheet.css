@@ -10,9 +10,19 @@
 }
 
 a:hover {
-    color: darkred;
+    color:lightsalmon;
 }
 
 li {
     padding-left: 20px;
+}
+
+table, th, td {
+    border: 1px solid lightseagreen;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightgray;
+    color: lightcoral;
 }
